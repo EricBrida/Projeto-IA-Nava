@@ -3,6 +3,13 @@
 - Eric Bueno Corrêa Brida | Email Institucional: [eric.brida@fatec.sp.gov.br](mailto:eric.brida@fatec.sp.gov.br)
 - Luigi Cordeiro de Oliveira | Email Institucional: [luigi.oliveira01@fatec.sp.gov.br](mailto:luigi.oliveira01@fatec.sp.gov.br)
 
+# Tecnologias Utilizadas
+
+| Tecnologia | Documentação |
+| ------ | ------ |
+| Python | [Sobre](https://www.python.org/doc/) |
+| VSCode | [Sobre](https://code.visualstudio.com/docs) |
+
 # Como Utilizar
 
 - Acesse a pasta em que deseja clonar o projeto e digite o seguinte comando: 
