@@ -1,4 +1,5 @@
 import cv2
+from app.preProcessamento import *
 
 def encontraPlaca(imagem):
     
@@ -28,10 +29,12 @@ def encontraPlaca(imagem):
 
             placa = imagem[y: y + lar, x: x + alt]
 
-            cv2.imwrite('output\placa\placa.jpg', placa)
+            cv2.imwrite('img\output\placa\placa.jpg', placa)
 
             if placa is None:
                 return
+            
+            preProcessamentoPlaca(placa)
 
 
     cv2.waitKey(0)
