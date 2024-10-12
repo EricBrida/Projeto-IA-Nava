@@ -2,12 +2,15 @@
 
 - Eric Bueno Corrêa Brida | Email Institucional: [eric.brida@fatec.sp.gov.br](mailto:eric.brida@fatec.sp.gov.br)
 - Luigi Cordeiro de Oliveira | Email Institucional: [luigi.oliveira01@fatec.sp.gov.br](mailto:luigi.oliveira01@fatec.sp.gov.br)
+- Rubia de Souza Moreira | Email Institucional: [rubia.moreira@fatec.sp.gov.br](mailto:rubia.moreira@fatec.sp.gov.br)
 
 # Tecnologias Utilizadas
 
 | Tecnologia | Documentação |
 | ------ | ------ |
 | Python | [Sobre](https://www.python.org/doc/) |
+| Pytesseract | [Sobre](https://pypi.org/project/pytesseract/) |
+| OpenCV | [Sobre](https://docs.opencv.org/4.x/) |
 | VSCode | [Sobre](https://code.visualstudio.com/docs) |
 
 # Como Utilizar
