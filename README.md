@@ -4,14 +4,22 @@
 - Luigi Cordeiro de Oliveira | *Email Institucional: [luigi.oliveira01@fatec.sp.gov.br](mailto:luigi.oliveira01@fatec.sp.gov.br)*
 - Rubia de Souza Moreira | *Email Institucional: [rubia.moreira@fatec.sp.gov.br](mailto:rubia.moreira@fatec.sp.gov.br)*
 
+# Sobre o Projeto
+
+> [!IMPORTANT]
+> *O projeto ainda se encontra em fase de desenvolvimento, erros acontecerão a qualquer instante*
+> *Placas podem não ser reconhecidas*
+
+O projeto visa fazer o reconhecimento de placas de carro, para trazer informações sobre o mesmo fazendo a requisição em um site.
+
 # Tecnologias Utilizadas
 
 | Tecnologia | Finalidade | Documentação |
 | ------ | ------ | ------ |
-| Python | a | [Sobre](https://www.python.org/doc/) |
-| Pytesseract | a | [Sobre](https://pypi.org/project/pytesseract/) |
-| OpenCV | a | [Sobre](https://docs.opencv.org/4.x/) |
-| VSCode | a | [Sobre](https://code.visualstudio.com/docs) |
+| Python | Linguagem utilizada para a realização do projeto | [Sobre](https://www.python.org/doc/) |
+| Pytesseract | Biblioteca para utilização do Tesseract para reconhecimento da placa | [Sobre](https://pypi.org/project/pytesseract/) |
+| OpenCV | Biblioteca utilizada para tratamento da imagem | [Sobre](https://docs.opencv.org/4.x/) |
+| VSCode | IDE utilizada | [Sobre](https://code.visualstudio.com/docs) |
 
 # Como Utilizar
 
